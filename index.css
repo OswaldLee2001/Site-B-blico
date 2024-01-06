@@ -1,0 +1,27 @@
+#barra {
+    background-color:#0655CC;
+}
+
+.navbar-brand {
+    color:white;
+    background-color:black;
+}
+
+.carousel-item  {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width:50%;
+    height:50%;
+  }
+
+  .carousel-item  {
+    max-width: 50%;
+    height: 50%;
+    margin: 0 auto;
+  }
+
+
+.card-body {
+    text-align:center;
+}
